@@ -1,0 +1,14 @@
+.home-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.cart-container {
+    background-color: aquamarine;
+}
+
+.tshirt-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
